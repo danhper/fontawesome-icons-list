@@ -39,7 +39,7 @@ fontAwesome.filter(function (obj) {
   return isIcon(obj);
 }).forEach(function (obj) {
   obj.selectors.forEach(function (selector) {
-    icons.push(selector.split(':')[0]);
+    icons.push(selector.split(':')[0].substring(1));
   });
 });
 
