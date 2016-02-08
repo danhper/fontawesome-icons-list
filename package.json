@@ -1,0 +1,28 @@
+{
+  "name": "fontawesome-icons-list",
+  "version": "4.5.0",
+  "description": "Font Awesome icons list",
+  "main": "index.js",
+  "dependencies": {
+    "font-awesome": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuvistavie/fontawesome-icons-list.git"
+  },
+  "keywords": [
+    "font-awesome",
+    "icons",
+    "list"
+  ],
+  "author": "Daniel Perez <daniel@claudetech.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuvistavie/fontawesome-icons-list/issues"
+  },
+  "homepage": "https://github.com/tuvistavie/fontawesome-icons-list#readme"
+}

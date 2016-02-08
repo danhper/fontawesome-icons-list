@@ -1,0 +1,28 @@
+{
+  "name": "fontawesome-icons-list",
+  "description": "Font Awesome icons list",
+  "main": "index.js",
+  "authors": [
+    "Daniel Perez <daniel@claudetech.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "font-awesome",
+    "icons",
+    "list"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "homepage": "https://github.com/tuvistavie/fontawesome-icons-list",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
